@@ -13,6 +13,10 @@ h1 {
     color: navy;
     padding-bottom: .3em;
 }
+h2 {
+    font-size: 160%;
+    padding-bottom: 0.3em;
+}
 img  {
     float: right;
     padding-left: 1em;
